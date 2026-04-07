@@ -73,9 +73,9 @@ Responsive Design Example:
 Check my GitHub for more insights into my work and contributions.
 
 ## Connect With Me
-- LinkedIn (linkedin.com in Bing)
-- Twitter (twitter.com in Bing)
-- Email: contact@danielrotimi.com
+- LinkedIn: https://www.linkedin.com/in/danielrotimi
+- X: https://x.com/DanielRoti43194
+- Email: dannyrotimi11@gmail.com 
 - Portfolio
 
 ## Certifications and Achievements
