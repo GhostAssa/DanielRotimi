@@ -52,7 +52,7 @@ I believe in creating accessible and high-performance web solutions that meet th
 ```
 
 
-**CSS3 Example:**
+** CSS3 Example:**
 ```css
 body {
     font-family: Arial, sans-serif;
@@ -69,22 +69,22 @@ Responsive Design Example:
 }
 ```
 
-##GitHub Statistics
+## GitHub Statistics
 Check my GitHub for more insights into my work and contributions.
 
-##Connect With Me
+## Connect With Me
 - LinkedIn (linkedin.com in Bing)
 - Twitter (twitter.com in Bing)
 - Email: contact@danielrotimi.com
 - Portfolio
 
-##Certifications and Achievements
+## Certifications and Achievements
 - [Certification Name]  
   - Issuing Organization  
 - [Another Achievement]  
 
----
-Showcasing my skills and commitment to providing excellent web development services.
+
+** Showcasing my skills and commitment to providing excellent web development services **
 
 
 
