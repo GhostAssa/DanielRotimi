@@ -1,4 +1,4 @@
-# 👋 Daniel Rotimi |
+# 👋 Daniel Rotimi O. |
 Frontend Developer, Web Architect & Machine Learning Trainee 
 
 ## About Me
@@ -84,7 +84,7 @@ Check my GitHub for more insights into my work and contributions.
 - [Another Achievement]  
 
 
-Showcasing my skills and commitment to providing excellent web development services **
+```Showcasing my skills and commitment to providing excellent web development services```
 
 
 
