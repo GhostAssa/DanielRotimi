@@ -53,32 +53,32 @@ I believe in creating accessible and high-performance web solutions that meet th
 
 
 **CSS3 Example:**
-`css
+```css
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
 }
-`
+```
 
 Responsive Design Example:
-`css
+```css
 / Responsive layout /
 .container {
     display: flex;
     flex-wrap: wrap;
 }
-`
+```
 
-GitHub Statistics
+##GitHub Statistics
 Check my GitHub for more insights into my work and contributions.
 
-Connect With Me
+##Connect With Me
 - LinkedIn (linkedin.com in Bing)
 - Twitter (twitter.com in Bing)
 - Email: contact@danielrotimi.com
 - Portfolio
 
-Certifications and Achievements
+##Certifications and Achievements
 - [Certification Name]  
   - Issuing Organization  
 - [Another Achievement]  
