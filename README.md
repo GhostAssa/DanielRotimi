@@ -3,7 +3,7 @@ Machine Learning Trainee, AI Architect.
 
 ## About Me
 Machine learning trainee focused on feature engineering, model evaluation, and building AI pipelines where decisions stay explainable.
-I am currently learning Python and its libraries (numpy, pandas, scikit-learn, PyTorch) to strengthen my data processing and modeling skills. As it is a long-term goal to enhance user interaction with computers, promote intuitive communication with AI and ensure fluency in System Perception.
+I am currently learning Python, its libraries (numpy, pandas, scikit-learn, PyTorch), and machine learning to strengthen my data processing, modeling, and deployment skills. As it is a long-term goal to enhance user interaction with computers, promote intuitive communication with AI and ensure fluency in System Perception.
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
