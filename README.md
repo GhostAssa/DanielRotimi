@@ -18,10 +18,27 @@ As it is a long-term goal to enhance user interaction with computers, promote in
 ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFC600?style=flat-square&logo=mailchimp&logoColor=black)
 
 ## Featured Projects
-### SPREAD - News Aggregation Platform
-- Achievements:
-  - Developed a user-friendly interface with a responsive design.
-  - Implemented real-time updates to deliver the latest news.
+Below are a selection of projects from my GitHub showcasing web development and Python tooling.
+
+### five-loaves-two-fish-site — Campus restaurant website
+- Repository: https://github.com/GhostAssa/five-loaves-two-fish-site
+- Description: A responsive, static HTML site built for a campus restaurant. Includes menu pages, contact information, and a clean layout optimized for mobile and desktop. Deployed using Vercel for fast hosting and easy updates.
+
+### Whatsapp-Notification-Triage — WhatsApp message notification router
+- Repository: https://github.com/GhostAssa/Whatsapp-Notification-Triage
+- Description: A Python-based notification routing service that scores incoming WhatsApp messages by urgency, user affinity, and noise signals. Uses a deterministic scoring model with an LLM as a constrained feature extractor to decide whether to notify, digest, or mute messages.
+
+### WORKSPHERE-AI2.0 — AI-powered workforce management (partial)
+- Repository: https://github.com/GhostAssa/WORKSPHERE-AI2.0
+- Description: A partly-built workforce management system that integrates a mobile app, REST API backend, and analytics dashboard. Designed to demonstrate scheduling, resource allocation, and AI-driven insights for workforce optimization.
+
+### ATM-Simulator-CLI — Python CLI ATM simulator
+- Repository: https://github.com/GhostAssa/ATM-Simulator-CLI
+- Description: A command-line application demonstrating object-oriented Python. Simulates basic ATM operations such as account login, balance inquiry, cash withdrawal, deposit, and transaction history. Great for learning control flow and user interaction in terminal apps.
+
+### CGPA-Calculator — Python CLI CGPA calculator
+- Repository: https://github.com/GhostAssa/CGPA-Calculator
+- Description: A small Python utility that automates the calculation of Cumulative Grade Point Average for college students. Validates input, supports multiple semesters, and prints a clear summary of results.
 
 ## Development Philosophy
 I believe in creating accessible and high-performance web solutions that meet the needs of users while ensuring maintainability and scalability of the code.
@@ -84,7 +101,3 @@ Check my GitHub for more insights into my work and contributions.
 
 
 ```Showcasing my skills and commitment to providing excellent web development services```
-
-
-
-
