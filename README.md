@@ -1,10 +1,9 @@
 # 👋 Daniel Rotimi O. |
-Frontend Developer, Web Architect & Machine Learning Trainee 
+Machine Learning Trainee, AI Architect.
 
 ## About Me
-As a passionate web developer, I specialize in frontend architecture, responsive design, performance optimization, and accessibility. My approach ensures high-quality user experiences and efficient coding practices.
-
-Periodically, I delve into Machine Learning, as it is a long-term goal to enhance user interaction with computers, promote intuitive communication with AI and ensure fluency in System Perception
+Machine learning trainee focused on feature engineering, model evaluation, and building AI pipelines where decisions stay explainable.
+As it is a long-term goal to enhance user interaction with computers, promote intuitive communication with AI and ensure fluency in System Perception.
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
