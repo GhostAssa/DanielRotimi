@@ -44,11 +44,12 @@ Below are a selection of projects from my GitHub showcasing web development and 
 I believe in creating accessible and high-performance web solutions that meet the needs of users while ensuring maintainability and scalability of the code.
 
 ## Expertise Areas
-| Area                  | Description                                      |
-|-----------------------|--------------------------------------------------|
-| Frontend Development  | Building responsive and interactive web pages.   |
-| Accessibility         | Ensuring usability for all users.                |
-| Performance           | Optimizing load times and rendering.             |
+| Area                  | Description                                                                                 |
+|-----------------------|---------------------------------------------------------------------------------------------|
+| Python                | Writing idiomatic Python for scripts, automation, and application development.              |
+| Python Libraries      | Working with numpy, pandas, scikit-learn, PyTorch and other libraries for data & ML tasks.  |
+| AI & Machine Learning | Feature engineering, model evaluation, explainability, and building deployable ML pipelines.|
+| Web Development       | Building responsive frontends and simple backends; deploying static sites and web apps.     |
 
 ## Code Examples
 **HTML5 Example:**
